@@ -49,7 +49,7 @@ var dataBahanAjar = [
     jenisBarang: "BMP",
     edisi: "2",
     stok: 548,
-    cover: "img/pengantar_komunikasi.jpg"
+    cover: "https://cdn.jsdelivr.net/gh/izna87/tracking-do@main/pengantar_komunikasi.jpg"
   },
   {
     kodeLokasi: "0JKT01",
@@ -58,7 +58,7 @@ var dataBahanAjar = [
     jenisBarang: "BMP",
     edisi: "3",
     stok: 392,
-    cover: "img/manajemen_keuangan.jpg"
+    cover: "https://cdn.jsdelivr.net/gh/izna87/tracking-do@main/manajemen_keuangan.jpg"
   },
   {
     kodeLokasi: "0SBY02",
@@ -67,7 +67,7 @@ var dataBahanAjar = [
     jenisBarang: "BMP",
     edisi: "1",
     stok: 278,
-    cover: "img/kepemimpinan.jpg"
+    cover: "https://cdn.jsdelivr.net/gh/izna87/tracking-do@main/kepemimpinan.jpg"
   },
   {
     kodeLokasi: "0MLG01",
@@ -76,7 +76,7 @@ var dataBahanAjar = [
     jenisBarang: "BMP",
     edisi: "2",
     stok: 165,
-    cover: "img/mikrobiologi.jpg"
+    cover: "https://cdn.jsdelivr.net/gh/izna87/tracking-do@main/mikrobiologi.jpg"
   },
   {
     kodeLokasi: "0UPBJJBDG",
@@ -85,7 +85,7 @@ var dataBahanAjar = [
     jenisBarang: "BMP",
     edisi: "4",
     stok: 204,
-    cover: "img/paud_perkembangan.jpg"
+    cover: "https://cdn.jsdelivr.net/gh/izna87/tracking-do@main/paud_perkembangan.jpeg"
   }
 ];
 
