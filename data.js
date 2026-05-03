@@ -149,5 +149,3 @@ var dataTracking = {
     ]
   }
 };
-
-</script>
